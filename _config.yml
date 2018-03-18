@@ -1,23 +1,26 @@
 # Site settings
 title: "Jake & Chrissie"
-email:
+email: "jacoblchapman@gmail.com"
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-baseurl: "/" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "jakeandchrissie.com" # the base hostname & protocol for your site
 
 # User setting
-owner:
-email:
+owner: "Jacob Chapman"
+email: "jacoblchapman@gmail.com"
 facebook_username:
 twitter_username:
 github_username:
+address_hotel:
+  - line: "Hotel Monasterio de San Martin"
+  - line: "Ctra A2101"
 address:
-  - line:
-  - line:
-  # Feel free to add more lines here 
+  - line: ""
+  - line: ""
+  # Feel free to add more lines here
 telephone:
 copyright:
 
