@@ -12,8 +12,18 @@ body {
     height: 100%;
 }
 
+
 body {
     font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.map_height{
+  height: 450px;
+}
+
+.car {
+
+  height: 450px;
 }
 
 .logo {
