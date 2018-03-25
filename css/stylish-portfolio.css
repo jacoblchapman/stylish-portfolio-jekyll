@@ -16,6 +16,10 @@ body {
     font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
+.logo {
+  width:50px;
+}
+
 .alex {
   font-family: 'Alex Brush';
 }
